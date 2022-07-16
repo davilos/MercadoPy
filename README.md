@@ -1,0 +1,1 @@
+# Projeto de um mercado que estou desenvolvendo no Python
