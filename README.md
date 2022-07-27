@@ -1,1 +1,2 @@
-# Projeto de um mercado que estou desenvolvendo no Python
+# MercadoPy
+## Projeto de um mercado que eu desenvolvi em Python
